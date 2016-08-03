@@ -2,7 +2,7 @@
 
 Hi 
 
- Please download Zip and extract for testfiles
+ Please download Zip and extract for solutions
  
  Folder Name: 
  tradeSystem
